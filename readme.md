@@ -1,4 +1,4 @@
-## 基于ncnn的yolov5部署
+## 基于ncnn的yolov5部署 实现调用摄像头完成目标检测 同时提供了一种demo编译方法
 
 ```powershell
 export ncnn_DIR={yourncnnpath}/ncnn/build/install/lib/cmake/ncnn

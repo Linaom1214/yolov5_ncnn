@@ -1,0 +1,3 @@
+/home/mat/ncnn/yolov5/build/CMakeFiles/rebuild_cache.dir
+/home/mat/ncnn/yolov5/build/CMakeFiles/edit_cache.dir
+/home/mat/ncnn/yolov5/build/CMakeFiles/yolov5_demo.dir
